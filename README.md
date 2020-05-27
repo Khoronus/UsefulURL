@@ -38,14 +38,20 @@ https://datascience.stackexchange.com/questions/32455/which-convolution-should-i
 https://medium.com/udacity-pytorch-challengers/a-brief-overview-of-loss-functions-in-pytorch-c0ddb78068f7
 * Build own loss
 https://discuss.pytorch.org/t/build-your-own-loss-function-in-pytorch/235/3
+
 -- NN Learning Issues
+
 * NN does not learn
 https://stats.stackexchange.com/questions/352036/what-should-i-do-when-my-neural-network-doesnt-learn
+
 -- Gradient
+
 https://ruder.io/optimizing-gradient-descent/
 https://medium.com/syncedreview/iclr-2019-fast-as-adam-good-as-sgd-new-optimizer-has-both-78e37e8f9a34
 https://stats.stackexchange.com/questions/316464/how-does-batch-size-affect-convergence-of-sgd-and-why
+
 -- Combine two separate networks
+
 https://groups.google.com/forum/#!topic/torch7/FACB5BKS4_Q
 https://discuss.pytorch.org/t/combining-trained-models-in-pytorch/28383
 
