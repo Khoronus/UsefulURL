@@ -23,13 +23,17 @@ https://www.sohamkamani.com/blog/how-to-write-good-documentation/
 https://github.com/eriklindernoren/PyTorch-GAN
 
 # Neural Network
+
 -- Convolution
+
 * How to train neural network
 https://towardsdatascience.com/pytorch-basics-how-to-train-your-neural-net-intro-to-cnn-26a14c2ea29
 * Convolution 1D 2D
 https://discuss.pytorch.org/t/understanding-convolution-1d-output-and-input/30764
 https://datascience.stackexchange.com/questions/32455/which-convolution-should-i-use-conv2d-or-conv1d
+
 -- Loss functions
+
 * Loss functions in PyTorch
 https://medium.com/udacity-pytorch-challengers/a-brief-overview-of-loss-functions-in-pytorch-c0ddb78068f7
 * Build own loss
