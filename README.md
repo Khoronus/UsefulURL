@@ -61,3 +61,9 @@ https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-s
 * Simple regression: linear regression
 https://medium.com/@benjamin.phillips22/simple-regression-with-neural-networks-in-pytorch-313f06910379
 
+# Multiple Object Tracking
+
+-- Challenge/Benchmark
+
+* Multiple Object Tracking Benchmark
+https://motchallenge.net/
