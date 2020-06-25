@@ -12,15 +12,23 @@ https://guides.github.com/features/wikis/
 https://guides.lib.berkeley.edu/how-to-write-good-documentation
 https://www.sohamkamani.com/blog/how-to-write-good-documentation/
 
-# Human Pose Estimation
-* Human pose estimation
- https://github.com/wangzheallen/awesome-human-pose-estimation
-* Pose (papers with code)
- https://paperswithcode.com/task/pose-prediction/latest
+# Write Paper
 
-# Generative Adversarial Network (GAN)
-* Collection of models (code/doc) in pytorch. NB: Not all the models run.
-https://github.com/eriklindernoren/PyTorch-GAN
+* How to write a good review
+https://m.youtube.com/watch?v=W1zPtTt43LI
+
+# Read Paper
+
+* How I Read a Paper: Facebook's DETR (Video Tutorial)
+https://www.youtube.com/watch?v=Uumd2zOOz60&app=desktop
+
+# Example PyTorch
+
+* Understanding PyTorch with an example: a step-by-step tutorial
+https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e
+
+* Simple regression: linear regression
+https://medium.com/@benjamin.phillips22/simple-regression-with-neural-networks-in-pytorch-313f06910379
 
 # Neural Network
 
@@ -44,6 +52,9 @@ https://discuss.pytorch.org/t/build-your-own-loss-function-in-pytorch/235/3
 * NN does not learn
 https://stats.stackexchange.com/questions/352036/what-should-i-do-when-my-neural-network-doesnt-learn
 
+* How to Evaluate Efficient Deep Neural Network Approaches @ CVPR 2020
+https://www.youtube.com/watch?v=HTu7RokJsxc&app=desktop
+
 -- Gradient
 
 https://ruder.io/optimizing-gradient-descent/
@@ -55,11 +66,72 @@ https://stats.stackexchange.com/questions/316464/how-does-batch-size-affect-conv
 https://groups.google.com/forum/#!topic/torch7/FACB5BKS4_Q
 https://discuss.pytorch.org/t/combining-trained-models-in-pytorch/28383
 
-# Example PyTorch
-* Understanding PyTorch with an example: a step-by-step tutorial
-https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e
-* Simple regression: linear regression
-https://medium.com/@benjamin.phillips22/simple-regression-with-neural-networks-in-pytorch-313f06910379
+-- Siamese Neural Network
+
+* ADL4CV - Siamese Neural Networks and Similarity Learning
+https://www.youtube.com/watch?v=6e65XfwmIWE&app=desktop
+
+# Generative Adversarial Network (GAN)
+
+* Collection of models (code/doc) in pytorch. NB: Not all the models run.
+https://github.com/eriklindernoren/PyTorch-GAN
+
+* [CVPR 2020] Image2StyleGAN++: How to Edit the Embedded Images?
+https://www.youtube.com/watch?v=yd5WczbFt68&app=desktop
+Paper: https://arxiv.org/abs/1911.11544v1
+
+# Pattern Recognition
+
+-- Features
+
+* CVPR2020 tutorial: Local Features: From SIFT to Differentiable Methods
+https://www.youtube.com/watch?v=ZscK5p9hZBI&app=desktop
+
+-- Geometry
+
+* [CVPR 2020 Oral] High-dimensional Convolutional Neural Networks for Geometric Pattern Recognition
+https://www.youtube.com/watch?v=bsPGPRrAJOY&app=desktop
+
+# 3D Object Estimation
+
+-- Unsupervised
+
+* Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild
+Paper: https://arxiv.org/pdf/1911.11130.pdf
+Code: https://github.com/elliottwu/unsup3d
+
+# Depth Estimation
+
+-- Monocular
+
+* 3D Packing for Self-Supervised Monocular Depth Estimation [CVPR 2020]
+https://www.youtube.com/watch?v=b62iDkLgGSI&app=desktop
+Paper: https://arxiv.org/abs/1905.02693
+Code: https://github.com/tri-ml/packnet-sfm
+
+# 2D Segmentation
+
+-- RGB
+
+* BubbleNets: CVPR 2019 Oral Presentation (Best Paper Award Finalist!)
+https://www.youtube.com/watch?v=XBEMuFVC2lg&app=desktop
+Paper: http://openaccess.thecvf.com/content_CVPR_2019/html/Griffin_BubbleNets_Learning_to_Select_the_Guidance_Frame_in_Video_Object_CVPR_2019_paper.html
+Code: https://github.com/griffbr/BubbleNets 
+
+# Single Object Tracking
+
+-- Single Shot
+
+* CVPR 2020: D3S - A Discriminative Single Shot Segmentation Tracker
+https://www.youtube.com/watch?v=E3mN_hCRHu0&app=desktop
+Paper: https://arxiv.org/abs/1911.08862 
+Code: https://github.com/alanlukezic/d3s
+
+* Fast Online Object Tracking and Segmentation: A Unifying Approach
+http://www.robots.ox.ac.uk/~qwang/SiamMask/
+Paper: https://arxiv.org/pdf/1812.05050.pdf
+Code: https://github.com/foolwood/SiamMask
+Code Modified: https://github.com/JosieHong/SiamMask_on_Your_Own_Dataset
 
 # Multiple Object Tracking
 
@@ -67,3 +139,33 @@ https://medium.com/@benjamin.phillips22/simple-regression-with-neural-networks-i
 
 * Multiple Object Tracking Benchmark
 https://motchallenge.net/
+
+# Human Pose Estimation
+
+-- Monocular
+
+* Human pose estimation
+ https://github.com/wangzheallen/awesome-human-pose-estimation
+* Pose (papers with code)
+ https://paperswithcode.com/task/pose-prediction/latest
+
+ * VIBE: Video Inference for Human Body Pose and Shape Estimation (CVPR 2020)
+ https://www.youtube.com/watch?v=rIr-nX63dUA&app=desktop
+ Paper: https://arxiv.org/abs/1912.05656
+ Code: https://github.com/mkocabas/VIBE
+
+ * CVPR 2020 Oral: Combining detection and tracking for human pose estimation in videos
+ Paper: https://arxiv.org/abs/2003.13743
+
+ -- Commercial Projects
+
+ * Only web Cam. Real time motion capture. - 3D pose estimation
+https://www.youtube.com/watch?v=o06Zo7ZU4Mo&app=desktop
+Code: https://github.com/digital-standard/ThreeDPoseUnityBarracuda
+
+# Super Resolution
+
+[CVPR-2020] Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution
+https://www.youtube.com/watch?v=8mgD8JxBOus&app=desktop
+Paper: https://arxiv.org/abs/2002.11616
+Code: https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020
