@@ -1,5 +1,5 @@
 # UsefulURL  
-Collection of link for different specific issues  
+Collection of links for different specific issues  
 
 # Document/ReadMe template  
 * Readme template  
