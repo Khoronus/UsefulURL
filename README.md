@@ -140,7 +140,9 @@ Code: https://github.com/griffbr/BubbleNets
 
 # Object Detection Frameworks
 
-Popular object detection frameworks  
+-- Perspective Camera
+
+* Popular object detection frameworks  
 https://github.com/open-mmlab/mmdetection  
 https://github.com/facebookresearch/detectron2  
 * Old project useful for practice but no longer mantained  
