@@ -22,6 +22,15 @@ https://m.youtube.com/watch?v=W1zPtTt43LI
 * How I Read a Paper: Facebook's DETR (Video Tutorial)  
 https://www.youtube.com/watch?v=Uumd2zOOz60&app=desktop  
 
+# Measure
+
+* Common indexing and measure in paper
+https://github.com/aditya30394/Person-Re-Identification https://en.wikipedia.org/wiki/Jaccard_index https://medium.com/@
+* Map Averace Prevision (mAP)
+https://medium.com/@jonathan_hui/map-mean-average-precision-for-object-detection-45c121a31173
+* Rank
+https://medium.com/analytics-vidhya/ranked-accuracy-11bdaef795e3
+
 # Example PyTorch  
 
 * Understanding PyTorch with an example: a step-by-step tutorial  
@@ -29,6 +38,17 @@ https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-s
 
 * Simple regression: linear regression  
 https://medium.com/@benjamin.phillips22/simple-regression-with-neural-networks-in-pytorch-313f06910379  
+
+* Graph and irregular structures
+https://github.com/rusty1s/pytorch_geometric
+
+# Framework for Research
+
+* PyTorch wrapper for ML researchers
+https://github.com/PyTorchLightning/pytorch-lightning
+
+* C++ of pytorch exaples for Deep Learning Researchers
+https://github.com/prabhuomkar/pytorch-cpp
 
 # Neural Network  
 
@@ -118,6 +138,13 @@ https://www.youtube.com/watch?v=XBEMuFVC2lg&app=desktop
 Paper: http://openaccess.thecvf.com/content_CVPR_2019/html/Griffin_BubbleNets_Learning_to_Select_the_Guidance_Frame_in_Video_Object_CVPR_2019_paper.html  
 Code: https://github.com/griffbr/BubbleNets   
 
+# Object Detection Frameworks
+
+https://github.com/open-mmlab/mmdetection
+https://github.com/facebookresearch/detectron2                  
+* Old project useful for practice but no longer mantained
+https://github.com/jwyang/faster-rcnn.pytorch            
+
 # Single Object Tracking  
 
 -- Single Shot  
@@ -169,3 +196,31 @@ Code: https://github.com/digital-standard/ThreeDPoseUnityBarracuda
 https://www.youtube.com/watch?v=8mgD8JxBOus&app=desktop  
 Paper: https://arxiv.org/abs/2002.11616  
 Code: https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020  
+
+# Just In Time
+
+How to write a just in time (JIT) compiler
+https://github.com/spencertipping/jit-tutorial
+https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/
+https://softwareengineering.stackexchange.com/questions/29344/jit-compiler-for-c-c-and-the-likes
+
+# Parser
+
+How to write a parser
+https://stackoverflow.com/questions/1843502/c-create-a-parser
+https://unclechromedome.org/c++-tutorials/expression-parser/index.html
+https://algoland.wordpress.com/2013/12/29/a-tiny-parser-in-c/
+https://www.toptal.com/c-plus-plus/creating-an-expression-parser-in-c-
+
+# Scripting
+
+How to write a scripting language
+https://gamedev.stackexchange.com/questions/421/how-do-you-add-a-scripting-language-to-a-game 
+https://www.flipcode.com/archives/Implementing_A_Scripting_Engine-Part_1_Overview.shtml
+http://gameprogrammingpatterns.com/bytecode.html
+
+# Cycle Implementation/Cycle Distribution
+
+* CircleCI
+circleci CI/CD : cycle implementation, cycle deployment Reduce the implementation time
+https://circleci.com/
