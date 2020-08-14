@@ -11,6 +11,8 @@ https://guides.github.com/features/wikis/
 * How to write a good documentation  
 https://guides.lib.berkeley.edu/how-to-write-good-documentation  
 https://www.sohamkamani.com/blog/how-to-write-good-documentation/  
+* How to visualize md files offline  
+https://github.com/joeyespo/grip  
 
 # Write Paper  
 
