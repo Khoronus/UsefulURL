@@ -14,6 +14,13 @@ https://www.sohamkamani.com/blog/how-to-write-good-documentation/
 * How to visualize md files offline  
 https://github.com/joeyespo/grip  
 
+# Fiducial Marker  
+
+* Aruco  
+https://docs.opencv.org/trunk/d5/dae/tutorial_aruco_detection.html  
+* AprilTag  
+https://april.eecs.umich.edu/software/apriltag  
+
 # Write Paper  
 
 * How to write a good review  
@@ -32,6 +39,11 @@ https://github.com/aditya30394/Person-Re-Identification https://en.wikipedia.org
 https://medium.com/@jonathan_hui/map-mean-average-precision-for-object-detection-45c121a31173  
 * Rank  
 https://medium.com/analytics-vidhya/ranked-accuracy-11bdaef795e3  
+* Texute Structure Similarity (SSIM) - Human perspective  
+https://ieeexplore.ieee.org/document/1284395  
+* Texture Peak Signal-to-noise ratio (PSNR) - Pixel differencies  
+https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio  
+https://www.ni.com/ja-jp/innovations/white-papers/11/peak-signal-to-noise-ratio-as-an-image-quality-metric.html  
 
 # Example PyTorch  
 
