@@ -241,3 +241,9 @@ http://gameprogrammingpatterns.com/bytecode.html
 * CircleCI
 circleci CI/CD : cycle implementation, cycle deployment Reduce the implementation time  
 https://circleci.com/  
+
+# Structure from Motion
+
+* COLMAP
+COLMAP is a general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline  
+https://colmap.github.io/  
