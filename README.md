@@ -255,5 +255,12 @@ https://colmap.github.io/
 # Image to image translation
 
 * Few-shot vid2vid
-Translate a video sequence in another video sequence  
+Translate a video sequence in another video sequence.  
 https://github.com/NVlabs/few-shot-vid2vid  
+
+# Video Frame Interpolation
+
+* DAIN  
+Video frame interpolation to vary video frame rate.  
+Paper: https://sites.google.com/view/wenbobao/dain  
+Code: https://github.com/baowenbo/DAIN  
