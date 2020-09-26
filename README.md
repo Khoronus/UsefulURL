@@ -214,6 +214,10 @@ https://www.youtube.com/watch?v=8mgD8JxBOus&app=desktop
 Paper: https://arxiv.org/abs/2002.11616  
 Code: https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020  
 
+* Video2X
+Upscaling software  
+Code: https://github.com/k4yt3x/video2x  
+
 # Just In Time
 
 How to write a just in time (JIT) compiler  
@@ -247,3 +251,9 @@ https://circleci.com/
 * COLMAP
 COLMAP is a general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline  
 https://colmap.github.io/  
+
+# Image to image translation
+
+* Few-shot vid2vid
+Translate a video sequence in another video sequence  
+https://github.com/NVlabs/few-shot-vid2vid  
