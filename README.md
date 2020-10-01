@@ -134,6 +134,12 @@ https://www.youtube.com/watch?v=bsPGPRrAJOY&app=desktop
 Paper: https://arxiv.org/pdf/1911.11130.pdf  
 Code: https://github.com/elliottwu/unsup3d  
 
+-- Scene reconstruction  
+
+* Neural Radiance Fields for Unconstrained Photo Collections
+https://nerf-w.github.io/  
+Paper: https://arxiv.org/abs/2008.02268  
+
 # Depth Estimation  
 
 -- Monocular  
@@ -142,6 +148,11 @@ Code: https://github.com/elliottwu/unsup3d
 https://www.youtube.com/watch?v=b62iDkLgGSI&app=desktop  
 Paper: https://arxiv.org/abs/1905.02693  
 Code: https://github.com/tri-ml/packnet-sfm  
+
+* 3D Dense reconstruction based on structure from motion algorithms [SIGGRAPH 2020]  
+https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/  
+Paper: https://arxiv.org/pdf/2004.15021.pdf  
+Code: https://github.com/facebookresearch/consistent_depth  
 
 # 2D Segmentation  
 
