@@ -44,6 +44,9 @@ https://ieeexplore.ieee.org/document/1284395
 * Texture Peak Signal-to-noise ratio (PSNR) - Pixel differencies  
 https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio  
 https://www.ni.com/ja-jp/innovations/white-papers/11/peak-signal-to-noise-ratio-as-an-image-quality-metric.html  
+* Learned Perceptual Image Patch Similarity (LPIPS)  
+Paper: Richard Zhang, Phillip Isola, Alexei A Efros, Eli Shechtman, and Oliver Wang. The unreasonable effectiveness of deep features as a perceptual metric. In CVPR, 2018.  
+Code: https://github.com/richzhang/PerceptualSimilarity  
 
 # Example PyTorch  
 
@@ -139,6 +142,11 @@ Code: https://github.com/elliottwu/unsup3d
 * Neural Radiance Fields for Unconstrained Photo Collections
 https://nerf-w.github.io/  
 Paper: https://arxiv.org/abs/2008.02268  
+
+* 3D Photography using Context-aware Layered Depth Inpainting  
+https://shihmengli.github.io/3D-Photo-Inpainting/  
+Paper: https://drive.google.com/file/d/17ki_YAL1k5CaHHP3pIBFWvw-ztF4CCPP/view  
+Code:
 
 # Depth Estimation  
 
