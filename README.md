@@ -283,3 +283,10 @@ https://github.com/NVlabs/few-shot-vid2vid
 Video frame interpolation to vary video frame rate.  
 Paper: https://sites.google.com/view/wenbobao/dain  
 Code: https://github.com/baowenbo/DAIN  
+
+# Reinforcement Learning
+
+* Deep Deterministic Policy Gradient  
+Specifically adapted for environments with continuous action spaces.  
+https://spinningup.openai.com/en/latest/algorithms/ddpg.html  
+Code: https://github.com/cookbenjamin/DDPG  
