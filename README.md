@@ -290,3 +290,9 @@ Code: https://github.com/baowenbo/DAIN
 Specifically adapted for environments with continuous action spaces.  
 https://spinningup.openai.com/en/latest/algorithms/ddpg.html  
 Code: https://github.com/cookbenjamin/DDPG  
+
+# Tools  
+
+* Visdom  
+A flexible tool for creating, organizing, and sharing visualizations of live, rich data.  
+https://github.com/facebookresearch/visdom  
