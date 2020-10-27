@@ -47,6 +47,8 @@ https://www.ni.com/ja-jp/innovations/white-papers/11/peak-signal-to-noise-ratio-
 * Learned Perceptual Image Patch Similarity (LPIPS)  
 Paper: Richard Zhang, Phillip Isola, Alexei A Efros, Eli Shechtman, and Oliver Wang. The unreasonable effectiveness of deep features as a perceptual metric. In CVPR, 2018.  
 Code: https://github.com/richzhang/PerceptualSimilarity  
+* Understanding AUC - ROC Curve  
+https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5  
 
 # Example PyTorch  
 
