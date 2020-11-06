@@ -298,3 +298,12 @@ Code: https://github.com/cookbenjamin/DDPG
 * Visdom  
 A flexible tool for creating, organizing, and sharing visualizations of live, rich data.  
 https://github.com/facebookresearch/visdom  
+
+# Remote Application  
+
+* Remote Desktop  
+AnyDesk. A remote desktop which can be used throw firewall.  
+https://anydesk.com/en  
+* Tunnels to localhost  
+https://ngrok.com/  
+Read also: https://towardsdatascience.com/how-to-share-your-jupyter-notebook-in-3-lines-of-code-with-ngrok-bfe1495a9c0c  
