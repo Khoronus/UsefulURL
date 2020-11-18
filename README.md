@@ -298,6 +298,9 @@ Code: https://github.com/cookbenjamin/DDPG
 * Visdom  
 A flexible tool for creating, organizing, and sharing visualizations of live, rich data.  
 https://github.com/facebookresearch/visdom  
+* JupyterLab  
+A web-based user interface for Project Jupyter  
+https://jupyterlab.readthedocs.io/en/stable/  
 
 # Remote Application  
 
