@@ -119,6 +119,12 @@ https://github.com/eriklindernoren/PyTorch-GAN
 https://www.youtube.com/watch?v=yd5WczbFt68&app=desktop  
 Paper: https://arxiv.org/abs/1911.11544v1  
 
+* [ICCV 2019 - Best Paper] SinGAN  
+code: https://github.com/tamarott/SinGAN  
+Paper: https://arxiv.org/pdf/1905.01164.pdf  
+Youtube: https://www.youtube.com/watch?v=xk8bWLZk4DU&ab_channel=TamarRottShaham  
+Online Description: https://www.youtube.com/watch?v=-f8sz8AExdc&ab_channel=HenryAILabs  
+
 # Pattern Recognition  
 
 -- Features  
