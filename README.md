@@ -203,8 +203,17 @@ http://www.robots.ox.ac.uk/~qwang/SiamMask/
 Paper: https://arxiv.org/pdf/1812.05050.pdf  
 Code: https://github.com/foolwood/SiamMask  
 Code Modified: https://github.com/JosieHong/SiamMask_on_Your_Own_Dataset  
+Annotation Version: https://github.com/umedalab/siammask_annotation  
 
 # Multiple Object Tracking  
+
+-- Object Tracking Given Bounding Boxes  
+
+* Simple Online and Realtime Tracking (SORT)  
+Code: https://github.com/abewley/sort  
+
+* Simple Online and Realtime Tracking with a Deep Association Metric (Deep SORT)  
+Code: https://github.com/abhyantrika/nanonets_object_tracking  
 
 -- Challenge/Benchmark  
 
