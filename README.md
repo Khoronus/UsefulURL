@@ -14,6 +14,11 @@ https://www.sohamkamani.com/blog/how-to-write-good-documentation/
 * How to visualize md files offline  
 https://github.com/joeyespo/grip  
 
+* Auto-Documenting a Python Project Using Sphinx  
+https://medium.com/better-programming/auto-documenting-a-python-project-using-sphinx-8878f9ddc6e9  
+* Clear, Functional C++ Documentation with Sphinx + Breathe + Doxygen + CMake  
+https://devblogs.microsoft.com/cppblog/clear-functional-c-documentation-with-sphinx-breathe-doxygen-cmake/  
+
 # Fiducial Marker  
 
 * Aruco  
@@ -325,3 +330,29 @@ https://anydesk.com/en
 * Tunnels to localhost  
 https://ngrok.com/  
 Read also: https://towardsdatascience.com/how-to-share-your-jupyter-notebook-in-3-lines-of-code-with-ngrok-bfe1495a9c0c  
+
+# Online Lectures/Lessons  
+
+* CS480/680 Lecture 19: Attention and Transformer Networks (!!!)  
+https://www.youtube.com/watch?v=OyFJWRnt_AY&t=851s
+
+# Transformers (Deep Learning)    
+
+* Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity  
+https://arxiv.org/abs/2101.03961  
+
+* T5: Text-To-Text Transfer Transformer  
+https://github.com/google-research/text-to-text-transfer-transformer  
+
+* Transformers for Image Recognition at Scale (!!!)  
+https://ai.googleblog.com/2020/12/transformers-for-image-recognition-at.html  
+https://github.com/google-research/vision_transformer  
+
+# Knowledge Distillation  
+
+* Knowledge Distillation (Wiki)  
+https://en.wikipedia.org/wiki/Knowledge_distillation  
+
+* Knowledge Distillation: A Survey (2020)  
+https://arxiv.org/pdf/2006.05525.pdf  
+
