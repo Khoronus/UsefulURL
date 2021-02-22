@@ -318,9 +318,16 @@ Code: https://github.com/cookbenjamin/DDPG
 * Visdom  
 A flexible tool for creating, organizing, and sharing visualizations of live, rich data.  
 https://github.com/facebookresearch/visdom  
+
+# Development Environments  
+
 * JupyterLab  
 A web-based user interface for Project Jupyter  
 https://jupyterlab.readthedocs.io/en/stable/  
+* Password/Token issue (forgotten/set new).    
+$ jupyter lab password  
+https://github.com/jupyter/notebook/issues/2971  
+Note: In the case of notebook, please change lab with notebook. The console message informs about the encoded password location.  
 
 # Remote Application  
 
@@ -356,3 +363,25 @@ https://en.wikipedia.org/wiki/Knowledge_distillation
 * Knowledge Distillation: A Survey (2020)  
 https://arxiv.org/pdf/2006.05525.pdf  
 
+
+# Deep Learning Tutorials  
+
+* Full implementation pytorch/tensorflow code with videos (youtube).  
+https://github.com/aladdinpersson/Machine-Learning-Collection  
+
+# Ordinary Differential Equations (ODE)
+
+* C++ implementation  
+https://github.com/bluescarni/heyoka  
+https://bluescarni.github.io/heyoka/  
+https://www.reddit.com/r/cpp/comments/lkcjki/solving_differential_equations_with_llvm/  
+
+# CUDA Installation
+
+* Some additional information to install CUDA on a Linux device (Ubuntu).  
+https://gist.github.com/kmhofmann/cee7c0053da8cc09d62d74a6a4c1c5e4  
+
+# Import Library (Python)  
+
+* importlib: Library and code to import libraries at runtime.  
+https://stackoverflow.com/questions/3131217/error-handling-when-importing-modules  
