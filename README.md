@@ -84,6 +84,10 @@ https://towardsdatascience.com/pytorch-basics-how-to-train-your-neural-net-intro
 https://discuss.pytorch.org/t/understanding-convolution-1d-output-and-input/30764  
 https://datascience.stackexchange.com/questions/32455/which-convolution-should-i-use-conv2d-or-conv1d  
 
+* How To Train Your Neural Net  
+Collection of examples about how to train a neural network.  
+https://github.com/theairbend3r/how-to-train-your-neural-net  
+
 -- Loss functions  
 
 * Loss functions in PyTorch  
@@ -194,6 +198,27 @@ https://github.com/facebookresearch/detectron2
 * Old project useful for practice but no longer mantained  
 https://github.com/jwyang/faster-rcnn.pytorch  
 
+-- Pytorch Efficient Detection 
+
+* EfficientDet  
+https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch  
+
+-- Small Object Detection 
+
+* Awesome Tiny Object Detection  
+https://github.com/kuanhungchen/awesome-tiny-object-detection  
+
+* small-object-detection
+Experiments with different models for object detection on the Pascal VOC 2007 dataset.  
+https://github.com/fl16180/small-object-detection  
+
+# Object Detection and Segmentation  
+
+-- Keras & Tensorflow   
+
+* Mask R-CNN for Object Detection and Segmentation  
+https://github.com/KhoronusFork/Mask_RCNN  
+
 # Single Object Tracking  
 
 -- Single Shot  
@@ -220,10 +245,24 @@ Code: https://github.com/abewley/sort
 * Simple Online and Realtime Tracking with a Deep Association Metric (Deep SORT)  
 Code: https://github.com/abhyantrika/nanonets_object_tracking  
 
+* Tracking without bells and whistles  
+https://github.com/phil-bergmann/tracking_wo_bnw  
+
+* pymot  
+This is a python implementation which determines the MOTP and MOTA metrics from a set of ground truth tracks and a set of hypothesis tracks given by the tracker to be evaluated.  
+https://github.com/Videmo/pymot  
+
+
 -- Challenge/Benchmark  
 
 * Multiple Object Tracking Benchmark  
 https://motchallenge.net/  
+
+-- Benchmark  
+
+* py-motmetrics  
+The py-motmetrics library provides a Python implementation of metrics for benchmarking multiple object trackers (MOT).  
+https://github.com/cheind/py-motmetrics  
 
 # Human Pose Estimation  
 
@@ -247,6 +286,24 @@ https://motchallenge.net/
  * Only web Cam. Real time motion capture. - 3D pose estimation  
 https://www.youtube.com/watch?v=o06Zo7ZU4Mo&app=desktop  
 Code: https://github.com/digital-standard/ThreeDPoseUnityBarracuda  
+
+ * AlphaPose  
+ AlphaPose is an accurate multi-person pose estimator  
+ https://github.com/MVIG-SJTU/AlphaPose  
+
+ * Keras Openpose  
+ keras-openpose-reproduce  
+ https://github.com/kevinlin311tw/keras-openpose-reproduce  
+
+# Human Pose Estimation (3D)  
+
+-- Monocular  
+
+* VideoPose3D  
+3D human pose estimation in video with temporal convolutions and semi-supervised training  
+https://github.com/facebookresearch/VideoPose3D  
+
+
 
 # Super Resolution  
 
@@ -292,6 +349,10 @@ https://circleci.com/
 * COLMAP
 COLMAP is a general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline  
 https://colmap.github.io/  
+
+* OpenSfM  
+OpenSfM is a Structure from Motion library written in Python  
+https://github.com/mapillary/OpenSfM  
 
 # Image to image translation
 
@@ -385,3 +446,72 @@ https://gist.github.com/kmhofmann/cee7c0053da8cc09d62d74a6a4c1c5e4
 
 * importlib: Library and code to import libraries at runtime.  
 https://stackoverflow.com/questions/3131217/error-handling-when-importing-modules  
+
+# Human Re-Identification (ReID)  
+
+* Collection of paper on the topic  
+https://github.com/bismex/Awesome-person-re-identification  
+
+# Semantic Segmentation  
+
+-- UNet  
+
+* UNet: semantic segmentation with PyTorch  
+https://github.com/milesial/Pytorch-UNet  
+
+# Background Matting
+
+-- Deep Learning
+
+* Background Matting: The World is Your Green Screen  
+https://github.com/senguptaumd/Background-Matting  
+
+* Real-Time High-Resolution Background Matting  
+https://github.com/PeterL1n/BackgroundMattingV2  
+
+# Neural Network Visualization  
+
+-- Convolutional  
+
+ * Convolutional Neural Network Visualizations
+ This repository contains a number of convolutional neural network visualization techniques implemented in PyTorch.  
+ https://github.com/utkuozbulak/pytorch-cnn-visualizations  
+
+# Face Morphable  
+
+ * EOS  
+  eos: A lightweight header-only 3D Morphable Face Model fitting library in modern C++11/14.  
+  eos is a lightweight 3D Morphable Face Model fitting library that provides basic functionality to use face models  
+  https://github.com/patrikhuber/eos  
+
+# Pytorch Tutorial
+
+-- Pytorch  
+This repository provides tutorial code for deep learning researchers to learn PyTorch.  
+https://github.com/Khoronus/pytorch-tutorial  
+
+# Face Recognition  
+
+-- Tensorflow  
+
+* Face Recognition using Tensorflow
+This is a TensorFlow implementation of the face recognizer described in the paper "FaceNet: A Unified Embedding for Face Recognition and Clustering"  
+https://github.com/KhoronusFork/facenet  
+
+
+# Concurrent Structures  
+
+-- Queue (C++)  
+
+* moodycamel::ConcurrentQueue  
+An industrial-strength lock-free queue for C++.  
+https://github.com/cameron314/concurrentqueue  
+
+# Serialization  
+
+-- C++ (C++11)  
+
+* Cereal  
+cereal - A C++11 library for serialization
+https://github.com/USCiLab/cereal  
+
