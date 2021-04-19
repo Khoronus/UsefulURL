@@ -160,6 +160,11 @@ Code: https://github.com/elliottwu/unsup3d
 https://nerf-w.github.io/  
 Paper: https://arxiv.org/abs/2008.02268  
 
+* Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes  
+https://www.cs.cornell.edu/~zl548/NSFF/  
+Paper: https://arxiv.org/abs/2011.13084  
+Code: https://github.com/zhengqili/Neural-Scene-Flow-Fields  
+
 * 3D Photography using Context-aware Layered Depth Inpainting  
 https://shihmengli.github.io/3D-Photo-Inpainting/  
 Paper: https://drive.google.com/file/d/17ki_YAL1k5CaHHP3pIBFWvw-ztF4CCPP/view  
