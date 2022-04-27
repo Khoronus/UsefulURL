@@ -523,3 +523,66 @@ https://github.com/cameron314/concurrentqueue
 cereal - A C++11 library for serialization
 https://github.com/USCiLab/cereal  
 
+
+
+### Flow For trajectory
+https://paperswithcode.com/method/normalizing-flows  
+https://github.com/janosh/awesome-normalizing-flows
+
+### Online Learning
+https://github.com/VowpalWabbit/vowpal_wabbit
+
+### Depth
+
+https://github.com/sxfduter/monocular-depth-estimation
+https://github.com/rvarun7777/FisheyeDistanceNet
+https://github.com/natowi/3D-Reconstruction-with-Deep-Learning-Methods
+https://github.com/ZhixinLai/3D-detection-with-monocular-RGB-image
+https://github.com/sxfduter/monocular-depth-estimation 
+
+### Planar reconstruction
+
+https://github.com/svip-lab/PlanarReconstruction
+https://github.com/NVlabs/planercnn
+
+### Pose 
+
+https://github.com/AliaksandrSiarohin/pose-gan  
+https://github.com/rohitrango/Adversarial-Pose-Estimation  
+https://github.com/llcshappy/Monocular-3D-Human-Pose
+https://github.com/yas-sim/human-pose-estimation-2d-demo
+https://github.com/chaneyddtt/weakly-supervised-3d-pose-generator
+https://github.com/vchoutas/expose
+https://github.com/mks0601/3DMPPE_POSENET_RELEASE
+https://github.com/isarandi/metrabs
+
+https://esslab.jp/~ess/en/research/pose3d/
+https://openaccess.thecvf.com/content_ECCVW_2018/papers/11132/Drover_Can_3D_Pose_be_Learned_from_2D_Projections_Alone_ECCVW_2018_paper.pdf
+
+### Tracking
+
+https://github.com/mhnasseri/sort_oh  
+
+### Optical Flow
+
+https://github.com/princeton-vl/RAFT
+
+### Low intensity image enhancement
+
+https://github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open
+
+
+Online Learning
+https://github.com/VowpalWabbit/vowpal_wabbit
+
+Exploration
+https://github.com/jangirrishabh/Overcoming-exploration-from-demos
+
+Multi agent
+https://github.com/ai4ce/DiscoNet
+
+Noise
+https://github.com/lmas/opensimplex
+
+Meta learning
+https://github.com/learnables/learn2learn 
