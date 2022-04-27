@@ -586,3 +586,7 @@ https://github.com/lmas/opensimplex
 
 Meta learning
 https://github.com/learnables/learn2learn 
+
+# Differentiable Rendering  
+
+https://github.com/BachiLi/redner  
