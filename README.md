@@ -591,3 +591,7 @@ https://github.com/learnables/learn2learn
 
 https://github.com/BachiLi/redner  
 https://mitsuba2.readthedocs.io/en/latest/src/getting_started/intro.html  
+
+# Voice Recognition  
+
+https://github.com/alphacep/vosk-api  
