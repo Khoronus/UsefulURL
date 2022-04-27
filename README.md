@@ -590,3 +590,4 @@ https://github.com/learnables/learn2learn
 # Differentiable Rendering  
 
 https://github.com/BachiLi/redner  
+https://mitsuba2.readthedocs.io/en/latest/src/getting_started/intro.html  
